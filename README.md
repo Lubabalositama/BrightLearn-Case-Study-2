@@ -1,11 +1,10 @@
-## Car Sales Analysis
+# Car Sales Analysis
 
 This repository contains my full analysis of the Bright Motors Car Sales dataset. The purpose of this project was to assist the newly appointed Head of Sales, who is looking for ways to grow sales, improve dealership performance, and better understand customer buying behaviour.
 
 The project takes you through my full workflow — from planning, SQL processing, and data analysis, all the way to the final PowerPoint presentation.
 
-##📌Project Summary
-
+## 📌Project Summary
 Bright Motors provided historical transactional data capturing daily car sales, pricing, car conditions, transmission types, regions, and customer behaviour patterns.
 
 My role was to clean the data, analyse it, build visual insights, and present clear recommendations to help the Head of Sales make informed decisions.
@@ -26,8 +25,7 @@ Most sold car makes
 
 Key recommendations to boost sales and reduce losses
 
-##🛠 Tools Used
-
+## 🛠 Tools Used
 Miro – planning, workflows, and project architecture
 
 Snowflake (SQL) – data cleaning, transformations, and calculations
@@ -36,8 +34,7 @@ Excel – building all visuals, charts, and analysis
 
 PowerPoint – final presentation for the Head of Sales
 
-##📂 Files Included
-
+## 📂 Files Included
 Sql Code - Cleaned Data in .sql file format
 
 Gantt File - Short Description of workflow and plan
@@ -51,7 +48,7 @@ Visuals File (.xlsb) – all graphs and charts used in the presentation
 Case Study PDF – full instructions and project brief
 
 
-##🔍 Insights Summary
+## 🔍 Insights Summary
 1. Transmission Performance
 
 Automatic cars generate the most revenue, but also the highest losses.
@@ -96,8 +93,7 @@ Chrysler
 
 Toyota
 
-##📈 Recommendations
-
+## 📈 Recommendations
 Based on the analysis:
 
 Balance focus between automatic and manual car sales
@@ -124,8 +120,7 @@ Strengthen customer relations
 
 Introduce competitions, loyalty programmes, or incentives.
 
-##📘 Project Workflow (High-Level)
-
+## 📘 Project Workflow (High-Level)
 Planning (Miro)
 
 Data flow, ETL steps, and project architecture.
